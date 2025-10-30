@@ -23,6 +23,14 @@ Expertise: "Appliances".
 
 ## *Experience:*
 
+### • “Innervate” 03.2025 – 09.2025
+DevOps Engineer
+- Gitlab CI, Ansible, Chef, Jenkins;
+- GCP/AWS;
+- K8S/LXC;
+- Monitoring Grafana, ELK;
+- Collaboration, improved observability, modernized legacy systems.
+
 ### • “Ledger” SAS 02.2022 – 11.2024
 Platform engineer
 - Opsgenie on-call, Jira, Slack;
